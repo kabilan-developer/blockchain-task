@@ -1,0 +1,119 @@
+.navbar-container{
+    height:60px;
+    /* background-color: red; */
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 10px;
+  }
+  .navbar-search{
+    border-radius: 20px;
+    background-color: transparent;
+    height: 30px;
+    width: 300px;
+    padding:15px;
+  }
+  .navbar-builder{
+    height: 54px;
+    border-radius: 27px;
+    -webkit-backdrop-filter: blur(7.1px);
+    backdrop-filter: blur(7.1px);
+    background-color: rgba(255, 255, 255, 0.09);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .Builder {
+    width: 78px;
+    height: 18px;
+    font-family: SFPro;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #00daff;
+  }
+  .Connect-Wallet {
+    width: 108px;
+    height: 16px;
+    font-family: SFProText;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .navbar-connectwallet{
+    width: 180px;
+    height: 54px;
+    border-radius: 27px;
+    background-image: linear-gradient(255deg, #ff989b 94%, #ff13be -10%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .NFT-Marketplace {
+    width: 136px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .Collections {
+    width: 78px;
+    height: 16px;
+    font-family: SFPro;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Rectangle-Copy {
+    width: 447px;
+    height: 54px;
+    border-radius: 27px;
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(144, 146, 150, 0.18) 0%);
+  }
+  .Rectangle {
+    width: 447px;
+    height: 54px;
+    border-radius: 27px;
+    background-color: #16162d;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+  }
+  .Search {
+    width: 51px;
+    height: 16px;
+    opacity: 0.3;
+    font-family: SFPro;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  

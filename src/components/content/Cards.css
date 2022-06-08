@@ -1,0 +1,24 @@
+.cards-container{
+    height: 100%;
+}
+.card{
+    height:325px;
+    background-color: rgba(255, 255, 255, 0.09);
+    border-radius: 20px;
+    width:210px;
+    margin: 0 10px;
+    color: rgb(139, 139, 139);
+    padding: 10px 5px;
+}
+.buy-now{
+  width: 86px;
+  height: 35px;
+  border-radius: 20px;
+  background-image: linear-gradient(247deg, #ff989b 93%, #ff13be -10%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bitmap{
+    border-radius: 20px;
+}

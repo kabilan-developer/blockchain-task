@@ -1,0 +1,28 @@
+<svg id="Group_3" data-name="Group 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00deff;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.463" y1="0.948" x2="0.463" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.451"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.263"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_15" data-name="Group 15">
+    <circle id="Oval_Copy" data-name="Oval Copy" class="cls-1" cx="12" cy="12" r="12"/>
+    <circle id="Oval_Copy_2" data-name="Oval Copy 2" class="cls-2" cx="12" cy="12" r="12"/>
+  </g>
+  <g id="Icon_Back_Copy_3" data-name="Icon/Back Copy 3" transform="translate(6 7)">
+    <path id="Path" class="cls-3" d="M2.873,7.074A8.835,8.835,0,0,1,5.085,9.241a.316.316,0,0,0,.259.151h.031a.3.3,0,0,0,.259-.151A8.585,8.585,0,0,1,7.847,7.074C9.3,5.93,10.807,4.741,10.731,2.86A2.955,2.955,0,0,0,7.8,0,2.9,2.9,0,0,0,5.36,1.309,2.92,2.92,0,0,0,0,2.875c-.092,1.866,1.4,3.055,2.869,4.2Z" transform="translate(1)"/>
+  </g>
+</svg>

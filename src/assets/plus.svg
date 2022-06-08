@@ -1,0 +1,33 @@
+<svg id="Group_4_Copy_7" data-name="Group 4 Copy 7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00deff;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.463" y1="0.948" x2="0.463" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.451"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.263"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <circle id="Oval_Copy" data-name="Oval Copy" class="cls-1" cx="15" cy="15" r="15"/>
+    <circle id="Oval_Copy_2" data-name="Oval Copy 2" class="cls-2" cx="15" cy="15" r="15"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(7 7)">
+      <g id="Icon_Back" data-name="Icon/Back">
+        <g id="Group_9" data-name="Group 9">
+          <path id="Rectangle_Copy_4" data-name="Rectangle Copy 4" class="cls-3" d="M0,2.956A3.664,3.664,0,0,1,.615.923h0a.74.74,0,0,1,1.231,0h0a3.664,3.664,0,0,1,.615,2.032V13.044a3.664,3.664,0,0,1-.615,2.032h0a.74.74,0,0,1-1.231,0h0A3.664,3.664,0,0,1,0,13.044Z" transform="translate(6.769)"/>
+          <path id="Rectangle_Copy_7" data-name="Rectangle Copy 7" class="cls-3" d="M0,2.956A3.664,3.664,0,0,1,.615.923h0a.74.74,0,0,1,1.231,0h0a3.664,3.664,0,0,1,.615,2.032V13.044a3.664,3.664,0,0,1-.615,2.032h0a.74.74,0,0,1-1.231,0h0A3.664,3.664,0,0,1,0,13.044Z" transform="translate(16 6.769) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
